@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Morning Glory</title>
-  <subtitle>只要天安门上还挂着毛主席的像，就别说咱不是一代人。</subtitle>
+  
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://weishi93.github.io/"/>
